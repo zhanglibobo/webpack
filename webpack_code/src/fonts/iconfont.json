@@ -1,0 +1,44 @@
+{
+  "id": "1193115",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8879761",
+      "name": "file protect",
+      "font_class": "fileprotect",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8879762",
+      "name": "printer",
+      "font_class": "printer",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "8106232",
+      "name": "guarantee",
+      "font_class": "guarantee",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "4118038",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eb6a",
+      "unicode_decimal": 60266
+    },
+    {
+      "icon_id": "7766709",
+      "name": "icon_add",
+      "font_class": "icon_add",
+      "unicode": "eb8f",
+      "unicode_decimal": 60303
+    }
+  ]
+}
