@@ -13,6 +13,9 @@ module.exports = {
     // filename:输出文件名
     filename: 'static/js/main.js',
     clean: true, // 自动将上次打包目录资源清空
+    environment:{
+      arrowFunction: false //不能使用箭头函数
+    }
   },
   module: {
     rules: [{
